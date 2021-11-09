@@ -1,13 +1,13 @@
 # The Star Match Game (React)
 
-![Main Screenshot](https://github.com/ranemihir/react-star-match-game/blob/screenshots/start.png)
+![Main Screenshot](https://github.com/ranemihir/react-star-match-game/blob/main/screenshots/start.png)
 
 ## Screenshots
 
-![Candidates Screenshot](https://github.com/ranemihir/react-star-match-game/blob/screenshots/candidates.png)
+![Candidates Screenshot](https://github.com/ranemihir/react-star-match-game/blob/main/screenshots/candidates.png)
 
-![Wrong Screenshot](https://github.com/ranemihir/react-star-match-game/blob/screenshots/wrong.png)
+![Wrong Screenshot](https://github.com/ranemihir/react-star-match-game/blob/main/screenshots/wrong.png)
 
-![Lose Screenshot](https://github.com/ranemihir/react-star-match-game/blob/screenshots/lose.png)
+![Lose Screenshot](https://github.com/ranemihir/react-star-match-game/blob/main/screenshots/lose.png)
 
-![Win Screenshot](https://github.com/ranemihir/react-star-match-game/blob/screenshots/win.png)
+![Win Screenshot](https://github.com/ranemihir/react-star-match-game/blob/main/screenshots/win.png)
