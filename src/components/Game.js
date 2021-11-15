@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react';
-import { utils } from './utils';
+import { utils } from './../utils';
 import { PlayAgain } from './PlayAgain';
 import { StarDisplay } from './StarDisplay';
 import { PlayNumber } from './PlayNumber';
