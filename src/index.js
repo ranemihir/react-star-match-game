@@ -1,6 +1,6 @@
 import { render } from 'react-dom';
 import './index.scss';
 
-import { StarMatch } from './components/StarMatch';
+import { App } from './components/App';
 
-render(<StarMatch />, document.getElementById('root'));
+render(<App />, document.getElementById('root'));

@@ -1,14 +1,18 @@
 // Color Theme 
 const colors = {
-    available: 'lightgray',
-    used: 'lightgreen',
-    wrong: 'lightcoral',
-    candidate: 'deepskyblue',
+    available: '#282828',
+    used: '#008800',
+    wrong: '#dd0000',
+    candidate: '#0000dd',
 };
 
 
 export const PlayNumber = (props) => (
-    <button className="number" style={{ backgroundColor: colors[props.status] }} onClick={() => props.onClick(props.num, props.status)}>{props.num}</button>
+    <button className="btn btn-lg rounded-circle shadow-sm my-2"
+        style={{ backgroundColor: colors[props.status], color: "white" }}
+        onClick={() => props.onClick(props.num, props.status)}>
+        <b>{props.num}</b>
+    </button>
 );
 
 
